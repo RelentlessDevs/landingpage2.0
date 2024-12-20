@@ -25,7 +25,7 @@ export default function Hero() {
           </div>
           <div className="flex-1">
             <img
-              src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
+              src="https://i.imgur.com/SRJtue1.png"
               alt="Professional Life Coach"
               className="rounded-2xl shadow-2xl"
             />
