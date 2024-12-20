@@ -24,11 +24,7 @@ export default function Credentials() {
             <h3 className="text-xl font-semibold mb-2 text-white">500+ Clients</h3>
             <p className="text-gray-300">Successfully Transformed</p>
           </div>
-          <div>
-            <BookOpen className="w-12 h-12 text-[#f0657e] mx-auto mb-4" />
-            <h3 className="text-xl font-semibold mb-2 text-white">Published Author</h3>
-            <p className="text-gray-300">Best-selling Personal Development Books</p>
-          </div>
+          
         </div>
       </Container>
     </div>

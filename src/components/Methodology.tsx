@@ -27,7 +27,7 @@ export default function Methodology() {
             />
           </div>
           <div className="flex-1">
-            <SectionTitle>The TRANSFORM Methodology</SectionTitle>
+            <SectionTitle>The RELENTLESS Methodology</SectionTitle>
             <div className="space-y-4">
               {methodologySteps.map((step, index) => (
                 <div key={index} className="flex items-center gap-3">
